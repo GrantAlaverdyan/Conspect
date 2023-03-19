@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://sun9-61.userapi.com/impg/CWNIcG5M4ptDHduoNNuTRerI38TmxTB09uPdIA/6EU9mcMHNtM.jpg?size=1280x853&quality=96&sign=532b96433526b8a88e07e1d4cd6d3d87&c_uniq_tag=dAlFz0Q1-rATyisWxIgWJJ7F3hfhlidU6wujPXKDMro&type=album);
+  background-size: 2600px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
